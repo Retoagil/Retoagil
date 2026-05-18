@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![https://github.com/Retoagil](./Retoagil github LogoRetoagil.png)
+![[https://github.com/Retoagil](./Retoagil github LogoRetoagil.png)]
 
 <!--
 **Retoagil/Retoagil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
